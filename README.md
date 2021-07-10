@@ -5,5 +5,5 @@
 > Hi! I am a Management Science and Engineering graduate student at **_Columbia University_**. My interests lie at the intersection of tech, economics and strategy. A data analyst in the making, I'm a passionate problem-solver.
 
 
-## Connect with me 💬
+## Let's Connect 💬
 <a href = 'https://www.linkedin.com/in/krithika-hj'> <img width = '32px' align= 'center' src="https://cdn.icon-icons.com/icons2/2428/PNG/512/linkedin_black_logo_icon_147114.png"/></a>&ensp;<a href = 'https://krithikahj.medium.com/'> <img width = '64px' align= 'center' src="https://miro.medium.com/max/8978/1*s986xIGqhfsN8U--09_AdA.png"/></a> 

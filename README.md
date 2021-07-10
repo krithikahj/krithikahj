@@ -1,5 +1,6 @@
 ## Welcome ٩(˘◡˘)۶
 
+<p align="center"><img src = "https://github.com/krithikahj/krithikahj/blob/ea101043fc6d7366bd822b20575076470b4f52ba/KRITHIKA%20H%20JAYAKUMAR.gif" align = 'center'></p>
 
 Hi! I am Krithika HJ from India, currently living in **_New York_**. I'm a Management Science and Engineering graduate student at **_Columbia University_**.
 
